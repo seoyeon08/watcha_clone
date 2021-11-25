@@ -75,7 +75,7 @@ const UpButton = styled.button`
   border: 1px solid white;
   margin-top: 90px;
   font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: bold; 
 `;
 
 const BeforeLoginScreen = () => (
