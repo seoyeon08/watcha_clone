@@ -1,11 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
 
-window.onload = function(){
-  document.getElementById("container").style.backgroundRepeat = "no-repeat";
-  document.getElementById("container").style.backgroundImage = "url(back1.jpg)";
-  document.getElementById("container").style.backgroundSize = "200px";
-}
+// window.onload = function(){
+//   document.getElementById("container").style.backgroundRepeat = "no-repeat";
+//   document.getElementById("container").style.backgroundImage = "url(back1.jpg)";
+//   document.getElementById("container").style.backgroundSize = "200px";
+// }
 
 const Box = styled.div`
   background: black;

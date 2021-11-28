@@ -1,6 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
 
+const Box = styled.div`
+  background: black;
+  display: center;
+`;
+
 const SignUpButton = styled.button`
   color: black;
   background: white;
